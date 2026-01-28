@@ -29,7 +29,7 @@ Demographics: Age and work-class distribution provided significant context for e
 Model Performance The classification models were evaluated based on accuracy:
 
 Algorithm	Accuracy
-Logistic Regression	               |  83%
-Decision Tree Classifier           |	82%
-Principal Component Analysis (PCA) |  81%
-Linear Discriminant Analysis (LDA) |  76%
+| Logistic Regression	               |  83%
+| Decision Tree Classifier           |	82%
+| Principal Component Analysis (PCA) |  81%
+| Linear Discriminant Analysis (LDA) |  76%
